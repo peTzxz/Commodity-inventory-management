@@ -1,0 +1,2 @@
+# Commodity-inventory-management
+这是我在学习VUE过程中做的一个商品库存管理系统，支持增加删除修改库存，上架以及下架新商品
